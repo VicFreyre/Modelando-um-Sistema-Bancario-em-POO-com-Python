@@ -1,5 +1,5 @@
 # Modelando-um-Sistema-Bancario-em-POO-com-Python
-Desafio de Código DIO - Suzano Python Bootcamp 
+Desafio de Código DIO - Suzano Python Bootcamp.
 
 Este projeto é um sistema bancário simples, implementado em Python, utilizando Programação Orientada a Objetos (POO). O sistema permite a criação de clientes, contas bancárias, depósitos, saques e visualização de extratos.
 
